@@ -13,7 +13,10 @@
 - **Time of Birth:** 12:61 AM
 - **Height:** 5' 6''
 - **Complexion:** Dusky
+- **Religion:** Hindu
+- **Gotra:** 
 - **Sunshine:** enter here
+- **Address:** Khora Colony, Ghaziabad
 
 ---
 
@@ -74,12 +77,11 @@ Chartered Accountant with a strong foundation in financial management and strate
 
 **Family Details:**
 
-- **Father:** Kamlesh Singh, Businessman
+- **Father:** Late Kamlesh Singh
 - **Mother:** Rekha Singh, Homemaker
 - **Siblings:**  
   Amit Singh, Software Engineer  
   Sumit Singh, Dentist (BDS)
-
 ---
 
 **Books Read:**
@@ -92,7 +94,14 @@ Chartered Accountant with a strong foundation in financial management and strate
 
 - All:
   - Include titles of other books you have read and enjoyed.
- 
+
+---
+
+**Looking For**
+I'm seeking a partner who is caring and respectful, with a lifestyle that includes being **vegetarian, non-drinking, and non-smoking**. This person should value family deeply and aspire to be a devoted family man. Together, we would create a nurturing and supportive home environment.
+
+---
+
 **Photos**
 <details>
   <summary> Click! 📸 </summary>
