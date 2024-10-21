@@ -73,9 +73,11 @@ Chartered Accountant with a strong foundation in financial management and strate
 
 **Family Details:**
 
-- **Father:** [Father's Name], Businessman
-- **Mother:** [Mother's Name], Homemaker
-- **Siblings:** [Names and any relevant details]
+- **Father:** Kamlesh Singh, Businessman
+- **Mother:** Rekha Singh, Homemaker
+- **Siblings:**  
+  Amit Singh, Software Engineer  
+  Sumit Singh, Dentist (BDS)
 
 ---
 
