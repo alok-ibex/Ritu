@@ -2,8 +2,6 @@
 
 ---
 
-**Bio:**
-
 **Name:** Ritu Singh
 
 ---
