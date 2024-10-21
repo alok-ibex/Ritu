@@ -10,26 +10,26 @@
 
 - **Date of Birth:** 18th September 1993
 - **Place of Birth:** Delhi
-- **Time of Birth:** 12:61 AM
+- **Time of Birth:** 10:15 AM
 - **Height:** 5' 6''
 - **Complexion:** Dusky
 - **Religion:** Hindu
-- **Gotra:** 
-- **Sunshine:** enter here
+- **Gotra:** Handa
+- **Sunshine:** Virgo
 - **Address:** Khora Colony, Ghaziabad
 
 ---
 
 **Contact Information:**
 
-- **Phone Number:** +91-25345323524
-- **Email:** rituasdasd1ad9@gmail.com
+- **Mother's Contact:** +91-9210745950
+- **Email:** ritusing1809@gmail.com
 
 ---
 
 **What I Do:**
 
-A dedicated Chartered Accountant with a knack for financial analysis and strategic planning. Passionate about teaching and sharing knowledge with others, and always eager to explore creative outlets through sketching. Here’s my LinkedIn profile. (You can add a link if desired.)
+A dedicated Chartered Accountant with a knack for financial analysis and strategic planning. Passionate about teaching and sharing knowledge with others, and always eager to explore creative outlets through sketching.
 
 ---
 
@@ -39,8 +39,7 @@ A dedicated Chartered Accountant with a knack for financial analysis and strateg
 - **Sketching:** Exploring creative expressions through art.
 - **Entertainment:** Watching online web series, TV shows, and movies.
 - **Travel:** Open to new experiences and exploring new places.
-- **Fitness:** Regular gym enthusiast and maintains an active lifestyle.
-- **Reading:** Enjoys reading books on personal development and finance.
+- **Fitness:** Does regular yoga and maintains an healthy lifestyle.
 
 ---
 
@@ -71,29 +70,17 @@ A dedicated Chartered Accountant with a knack for financial analysis and strateg
 
 **Career:**
 
-Chartered Accountant with a strong foundation in financial management and strategic planning. Currently seeking opportunities to further apply skills in dynamic environments.
+Chartered Accountant with a strong foundation in accounting, financial management and strategic planning. Currently working at Genpact working as managment trainee. Also seeking better opportunities to further apply skills in dynamic environments.
 
 ---
 
 **Family Details:**
 
-- **Father:** Late Kamlesh Singh
-- **Mother:** Rekha Singh, Homemaker
+- **Father:** Late Mr Kamlesh Singh, School owner
+- **Mother:** Mrs. Rekha Singh, Homemaker
 - **Siblings:**  
   Amit Singh, Software Engineer  
   Sumit Singh, Dentist (BDS)
----
-
-**Books Read:**
-
-- Favorites: 
-  - "Rich Dad Poor Dad" by Robert Kiyosaki
-  - "The Intelligent Investor" by Benjamin Graham
-  - "Atomic Habits" by James Clear
-  - "Think and Grow Rich" by Napoleon Hill
-
-- All:
-  - Include titles of other books you have read and enjoyed.
 
 ---
 
@@ -107,7 +94,6 @@ I'm seeking a partner who is caring and respectful, with a lifestyle that includ
   <summary> Click! 📸 </summary>
   <img src="jpeg/image-1.jpeg">
   <img src="jpeg/image-2.jpeg">
-  <img src="jpeg/image-3.jpeg">
   <img src="jpeg/image-4.jpeg">
   <img src="jpeg/image-5.jpeg">
 </details>
