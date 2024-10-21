@@ -98,9 +98,9 @@ Chartered Accountant with a strong foundation in financial management and strate
 **Photos**
 <details>
   <summary> Click! 📸 </summary>
-  <img src="jpeg/IMG_1234.JPG">
-  <img src="jpeg/IMG_4657.jpeg">
-  <img src="jpeg/IMG_4899.jpeg">
-  <img src="jpeg/IMG_3744.jpg">
-  <img src="jpeg/IMG_4629.jpeg">
+  <img src="jpeg/image-1.jpeg">
+  <img src="jpeg/image-2.jpeg">
+  <img src="jpeg/image-3.jpeg">
+  <img src="jpeg/image-4.jpeg">
+  <img src="jpeg/image-5.jpeg">
 </details>
