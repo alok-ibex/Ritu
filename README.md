@@ -11,7 +11,7 @@
 - **Date of Birth:** 18th September 1993
 - **Place of Birth:** Delhi
 - **Time of Birth:** 12:61 AM
-- **Height:** 5' 6'' (You can adjust this detail as per your actual height)
+- **Height:** 5' 6''
 - **Complexion:** Dusky
 - **Sunshine:** enter here
 
