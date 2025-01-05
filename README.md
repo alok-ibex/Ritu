@@ -47,7 +47,7 @@ A dedicated Chartered Accountant with a knack for financial analysis and strateg
 
 - **Compassionate:** Empathetic and understanding towards others.
 - **Creative:** Loves to explore and create new ideas through art.
-- **Humorous:** Enjoys bringing joy and laughter to those around him.
+- **Humorous:** Enjoys bringing joy and laughter to those around her.
 - **Open-minded:** Always ready to embrace new ideas and perspectives.
 - **Adaptable:** Easily adjusts to new situations and environments.
 
