@@ -14,7 +14,7 @@
 - **Height:** 5' 6''
 - **Complexion:** Dusky
 - **Religion:** Hindu
-- **Gotra:** Handa
+- **Gotra:** Hada
 - **Sunshine:** Virgo
 - **Address:** Khora Colony, Ghaziabad
 
